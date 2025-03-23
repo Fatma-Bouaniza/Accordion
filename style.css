@@ -1,6 +1,10 @@
 body{
     margin: 0;
     padding: 0;
+    background-color:rgb(122, 180, 161)
+}
+h1{
+    color: black;
 }
 .accordion{
     width: 50%;
